@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627598564513",
+    "project_id": "mithas-6cded",
+    "storage_bucket": "mithas-6cded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627598564513:android:724f221c20380e17fd64e0",
+        "android_client_info": {
+          "package_name": "com.tdl.mithas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627598564513-ndt18jjqn9cnq98jp53ge3nu02ikjudv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZsji5PeJdmay6wOI-QJJID3nA3MN0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627598564513-ndt18jjqn9cnq98jp53ge3nu02ikjudv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
